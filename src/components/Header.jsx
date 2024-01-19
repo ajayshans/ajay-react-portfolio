@@ -1,8 +1,8 @@
-import Navigation from './Navigation';
+import Nav from './Navigation';
 
-// Navigation within the Header component
+// Nav stored within the Header component
 export default function Header() {
     return (
-            <Navigation/>
+            <Nav/>
     )
 }
