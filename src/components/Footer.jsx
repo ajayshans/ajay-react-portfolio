@@ -24,5 +24,5 @@ export default function Footer() {
             </a>
           </h1>
         </div>
-      );
-    }
+    );
+}
