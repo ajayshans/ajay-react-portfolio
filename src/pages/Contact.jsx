@@ -97,7 +97,7 @@ return (
       ></textarea>
     </div>
     {errorMessage && (
-      <div className="error-message">{errorMessage}</div>
+      <div className="error-message py-4 fs-4">{errorMessage}!</div>
     )}
     <button type="submit" className="btn btn-primary">Submit</button>
   </form>

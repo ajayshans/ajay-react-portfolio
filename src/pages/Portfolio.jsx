@@ -63,7 +63,7 @@ function Portfolio() {
   // Portfolio page layout
   return (
     <div className="container p-5">
-      <h1>Ajay's Coding Portfolio</h1>
+      <h1 className = "px-3 mb-3 text-white">Coding Portfolio</h1>
 
       <div className="row p-2">
         {/* For each project, pass the project component with associated props */}
