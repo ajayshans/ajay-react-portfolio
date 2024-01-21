@@ -1,10 +1,10 @@
-import cv from '../assets/Ajay_Shan_cv.pdf'
+import cv from '../assets/AjayShan_CV.pdf'
 
 export default function Resume() {
     return (
         <div className="container p-5">
         <h1>Resume</h1>
-        <p>Download my <a href={cv} download="Ajay_shan_cv.pdf">CV</a></p>
+        <p>Download my <a href={cv} download="AjayShan_CV.pdf">CV</a></p>
         <h2>Front-end Skills</h2>
         <ul>
             <li>HTML</li>
