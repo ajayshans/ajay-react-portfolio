@@ -3,7 +3,7 @@ import cv from '../assets/AjayShan_CV.pdf'
 export default function Resume() {
     return (
         <div className="container p-5">
-        <h1>CV</h1>
+        <h1 className="py-3">CV</h1>
         <p>Download my CV <a href={cv} download="AjayShan_CV.pdf">here</a></p>
         <h2>Front-end Skills</h2>
         <ul>
