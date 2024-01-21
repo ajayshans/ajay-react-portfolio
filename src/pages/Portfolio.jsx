@@ -1,5 +1,5 @@
 import React from "react";
-import Project from "./Project";
+import Project from "../components/Project";
 import movieQuest from "../assets/images/movie_quest.png";
 import globetrottersGallery from "../assets/images/globetrotters_gallery.png";
 import techBlog from "../assets/images/tech_blog.png";
