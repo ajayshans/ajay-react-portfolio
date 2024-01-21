@@ -18,8 +18,8 @@ The purpose of this project is to use React to create a single-page professional
 - Ensure viewing footer presents icon links to developer's GitHub, LinkedIn and profile on 3rd platform
 
 ## Web Application Preview
-![Application Screenshot 1](src/assets/portfolio-preview-1.png)
+![Application Screenshot 1](src/assets/images/portfolio-preview-1.png)
 
 ## Submission Requirements
-- [Deployed Application](https://text-editor-app-d968.onrender.com/)
+- [Deployed Application](https://ajay-react-portfolio.onrender.com/)
 - [GitHub Repo](https://github.com/ajayshans/ajay-react-portfolio)
